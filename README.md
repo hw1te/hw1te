@@ -18,7 +18,7 @@ I am looking to further my career in this area and experience personal and profe
 - :mag: **Curiosity about me:** I am colorblind ( Does it bother me or affect my daily routine ? Not at all :heavy_exclamation_mark::heavy_exclamation_mark:)
 
 ## My Tech Stack
-<img src="images/git-icon.svg" width="75" height="75" /><img src="images/html-1.svg" width="75" height="75" /><img src="images/css-3.svg" width="75" height="75" /><img src="images/logo-javascript.svg" width="75" height="75" /><img src="images/react-2 (1).svg" width="75" height="75" /><img src="images/mysql-6.svg" width="75" height="75" /><img src="images/mongodb-icon-1.svg" width="75" height="75" /><img src="images/nodejs-1.svg" width="75" height="75" /><img src="images/express-109.svg" width="100" height="100" /><img src="images/docker-3.svg" width="75" height="75" /><img src="images/heroku-4.svg" width="75" height="75" />
+<img src="images/git-icon.svg" width="75" height="75" /><img src="images/html-1.svg" width="75" height="75" /><img src="images/css-3.svg" width="75" height="75" /><img src="images/logo-javascript.svg" width="75" height="75" /><img src="images/typescript.svg" width="75" height="75" /><img src="images/react-2 (1).svg" width="75" height="75" /><img src="images/mysql-6.svg" width="75" height="75" /><img src="images/mongodb-icon-1.svg" width="75" height="75" /><img src="images/nodejs-1.svg" width="75" height="75" /><img src="images/express-109.svg" width="100" height="100" /><img src="images/docker-3.svg" width="75" height="75" /><img src="images/heroku-4.svg" width="75" height="75" />
 
 ## Contact & Social Media
 <img src="images/gmail-icon-2.svg" width="75" height="75" padding-left="50" /><img src="images/linkedin-icon-2.svg" width="75" height="75" padding-left="50px"/>
