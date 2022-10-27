@@ -21,7 +21,7 @@ I am looking to further my career in this area and experience personal and profe
 <img src="images/git-icon.svg" width="75" height="75" /><img src="images/html-1.svg" width="75" height="75" /><img src="images/css-3.svg" width="75" height="75" /><img src="images/logo-javascript.svg" width="75" height="75" /><img src="images/typescript.svg" width="75" height="75" /><img src="images/react-2 (1).svg" width="75" height="75" /><img src="images/mysql.png" width="" height="" /><img src="images/mongodb.png" width="75" height="75" /><img src="images/nodejs-1.svg" width="75" height="75" /><img src="images/express.png" width="" height="" /><img src="images/docker.png" width="75" height="75" /><img src="images/heroku-4.svg" width="75" height="75" />
 
 ## Contact & Social Media
-<img src="images/gmail.png" width="75" height="75" padding-left="50" />[<img src="images/linkedin.png" width="75" height="75"/>](https://www.linkedin.com/in/gustavopospi/)
+[<img src="images/gmail.png" width="75" height="75" padding-left="50" />](mailto:gutxander@gmail.com)[<img src="images/linkedin.png" width="75" height="75"/>](https://www.linkedin.com/in/gustavopospi/)
 
 ## GitHub Stats
 [![Gustavo Pospi(hw1te)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=hw1te&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
