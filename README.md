@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-My name is **Gustavo Pospi**, I'm **21** years old, after High School I graduated in *Marketing*, recently became a *Full Stack Web Developer* trough [Trybe](https://ajuda.betrybe.com/hc/pt-br/articles/360056299454-O-que-a-Trybe-%C3%A9-  "What Trybe is"), and I am looking for a job opportunity.
+My name is **Gustavo Pospi**, I'm **21** years old, after High School I graduated in *Marketing*. Recently I became a *Full Stack Web Developer* trough [Trybe](https://ajuda.betrybe.com/hc/pt-br/articles/360056299454-O-que-a-Trybe-%C3%A9-  "What Trybe is"), and I am looking for a job opportunity.
 
 I am looking to further my career in this area and experience personal and professional **growth** alongside my working colleagues !
 
