@@ -9,7 +9,7 @@ I am looking to further my career in this area and experience personal and profe
 
 - 🌱 I'm currently working on consolidating and deepening my stacks knowledge.
 
-- :computer: As I studied **_Back-End_**, I started to lean towards it more and more. My learning path started with **MySQL** and **NodeJS** together with its web application framework **Express**, soon followed by **MSC** software architecture, **ORM** and **JWT** authentication. Later on I delved further and had the opportunity to practice and make **CRUD's** using **TypeScript** and **SOLID** principles, where soon after got introduced to NodeJS with **MongoDB**.
+- :computer: In **_Back-End_**, my learning path started with **MySQL** and **NodeJS** together with its web application framework **Express**, soon followed by **MSC** software architecture, **ORM** and **JWT** authentication. Later on I delved further and had the opportunity to practice and make **CRUD's** using **TypeScript** and **SOLID** principles, where soon after got introduced to NodeJS with **MongoDB**.
 
 - :bulb: **_Front-End_** wise, as soon as I finished learning the fundamental techs, **JavaScript**, **HTML**, **CSS** and their particularities, I got into **React**, where I learned about its *components* together with *states* and the **React Testing Library**. Later on, I followed with lessons about **Redux State Management**, **Context API** and **React Hooks**.
 
