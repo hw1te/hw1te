@@ -25,4 +25,4 @@ I am looking to further my career in this area and experience personal and profe
 
 ## GitHub Stats
 [![Gustavo Pospi(hw1te)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=hw1te&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hw1te&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hw1te&theme=tokyonight&layout=compact )](https://github.com/anuraghazra/github-readme-stats)
