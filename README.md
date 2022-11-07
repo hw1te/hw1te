@@ -24,5 +24,5 @@ I am looking to further my career in this area and experience personal and profe
 [<img src="images/gmail.png" width="75" height="75" padding-left="50" />](mailto:gutxander@gmail.com)[<img src="images/linkedin.png" width="75" height="75"/>](https://www.linkedin.com/in/gustavopospi/)
 
 ## GitHub Stats
-[![Gustavo Pospi(hw1te)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=hw1te&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
+[![Gustavo Pospi(hw1te)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=hw1te&theme=tokyonight&card_width=270 )](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hw1te&theme=tokyonight&layout=compact )](https://github.com/anuraghazra/github-readme-stats)
