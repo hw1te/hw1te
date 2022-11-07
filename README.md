@@ -5,7 +5,7 @@ My name is **Gustavo Pospi**, I'm **21** years old, after High School I graduate
 I am looking to further my career in this area and experience personal and professional **growth** alongside my working colleagues !
 
 ## Here are a few things about me
-<img align="right" width="400" height="400" alt="fidget spinner" src="https://media.giphy.com/media/K3fXQ1YWZFUFBIF4mM/giphy.gif">
+<img align="right" width="350" height="350" alt="fidget spinner" src="https://media.giphy.com/media/K3fXQ1YWZFUFBIF4mM/giphy.gif">
 
 - 🌱 I'm currently working on consolidating and deepening my stacks knowledge.
 
@@ -18,7 +18,7 @@ I am looking to further my career in this area and experience personal and profe
 - :mag: **Curiosity about me:** I am colorblind ( Does it bother me or affect my daily routine ? Not at all :heavy_exclamation_mark::heavy_exclamation_mark:)
 
 ## My Tech Stack
-<img src="images/git-icon.svg" width="75" height="75" /><img src="images/html-1.svg" width="75" height="75" /><img src="images/css-3.svg" width="75" height="75" /><img src="images/logo-javascript.svg" width="75" height="75" /><img src="images/typescript.svg" width="75" height="75" /><img src="images/react-2 (1).svg" width="75" height="75" /><img src="images/mysql.png" width="" height="" /><img src="images/mongodb.png" width="75" height="75" /><img src="images/nodejs-1.svg" width="75" height="75" /><img src="images/express.png" width="" height="" /><img src="images/docker.png" width="75" height="75" /><img src="images/heroku-4.svg" width="75" height="75" />
+<img src="images/git-icon.svg" width="60" height="60" /><img src="images/html-1.svg" width="60" height="60" /><img src="images/css-3.svg" width="60" height="60" /><img src="images/logo-javascript.svg" width="60" height="60" /><img src="images/typescript.svg" width="60" height="60" /><img src="images/react-2 (1).svg" width="60" height="60" /><img src="images/mysql.png" width="70" height="70" /><img src="images/mongodb.png" width="60" height="60" /><img src="images/nodejs-1.svg" width="60" height="60" /><img src="images/express.png" width="60" height="60" /><img src="images/docker.png" width="60" height="60" /><img src="images/heroku-4.svg" width="60" height="60" />
 
 ## Contact & Social Media
 [<img src="images/gmail.png" width="75" height="75" padding-left="50" />](mailto:gutxander@gmail.com)[<img src="images/linkedin.png" width="75" height="75"/>](https://www.linkedin.com/in/gustavopospi/)
